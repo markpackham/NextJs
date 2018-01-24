@@ -1,5 +1,6 @@
 class Prices extends React.Component {
     state = {
+//This can be changed to GBP or EUR
         currency: 'USD'
     }
 
